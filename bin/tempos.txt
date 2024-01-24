@@ -1,0 +1,133 @@
+Testes com 50000 mil
+Metodo shell
+pior caso: 19,000000
+melhor caso: 1,000000
+aleatorio caso: 1,000000
+
+
+Testes com 100000 mil
+Metodo shell
+pior caso: 1,000000
+melhor caso: 1,000000
+aleatorio caso: 1,000000
+
+
+Testes com 500000 mil
+Metodo shell
+pior caso: 8,000000
+melhor caso: 8,000000
+aleatorio caso: 8,000000
+
+
+_________________________________________________________
+Testes com 50000 mil
+Metodo merge
+pior caso: 25,000000
+melhor caso: 23,000000
+aleatorio caso: 9,000000
+
+
+Testes com 100000 mil
+Metodo merge
+pior caso: 18,000000
+melhor caso: 11,000000
+aleatorio caso: 12,000000
+
+
+Testes com 500000 mil
+Metodo merge
+pior caso: 96,000000
+melhor caso: 76,000000
+aleatorio caso: 56,000000
+
+
+_________________________________________________________
+Testes com 50000 mil
+Metodo count
+pior caso: 7,000000
+melhor caso: 2,000000
+aleatorio caso: 2,000000
+
+
+Testes com 100000 mil
+Metodo count
+pior caso: 3,000000
+melhor caso: 4,000000
+aleatorio caso: 3,000000
+
+
+Testes com 500000 mil
+Metodo count
+pior caso: 17,000000
+melhor caso: 18,000000
+aleatorio caso: 11,000000
+
+
+#######################################################
+Outro Teste
+#######################################################
+
+Testes com 50000 mil
+Metodo shell
+pior caso: 18,000000
+melhor caso: 1,000000
+aleatorio caso: 1,000000
+
+
+Testes com 100000 mil
+Metodo shell
+pior caso: 2,000000
+melhor caso: 1,000000
+aleatorio caso: 2,000000
+
+
+Testes com 500000 mil
+Metodo shell
+pior caso: 7,000000
+melhor caso: 7,000000
+aleatorio caso: 7,000000
+
+
+_________________________________________________________
+Testes com 50000 mil
+Metodo merge
+pior caso: 23,000000
+melhor caso: 14,000000
+aleatorio caso: 8,000000
+
+
+Testes com 100000 mil
+Metodo merge
+pior caso: 18,000000
+melhor caso: 12,000000
+aleatorio caso: 12,000000
+
+
+Testes com 500000 mil
+Metodo merge
+pior caso: 101,000000
+melhor caso: 79,000000
+aleatorio caso: 55,000000
+
+
+_________________________________________________________
+Testes com 50000 mil
+Metodo count
+pior caso: 7,000000
+melhor caso: 3,000000
+aleatorio caso: 4,000000
+
+
+Testes com 100000 mil
+Metodo count
+pior caso: 5,000000
+melhor caso: 4,000000
+aleatorio caso: 5,000000
+
+
+Testes com 500000 mil
+Metodo count
+pior caso: 28,000000
+melhor caso: 7,000000
+aleatorio caso: 7,000000
+
